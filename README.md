@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayden</h1>
 <h3 align="center">An aspiring computer scientist looking to expand my knowledge and undergo new experiences or opportunities.</h3>
 
-- 🔭 I’m currently working on [A Realty Company Website](N/A)
+- 🔭 I’m currently working on **A Realty Company Website**
 
 - 🌱 I’m currently learning **Ollama API and how to integrate it into my homelab setup!**
 
